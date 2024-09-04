@@ -7,7 +7,7 @@ import useGetWindowSize from "../../utils/useGetWindowSize";
 
 export function FirstBlock() {
   const { width } = useGetWindowSize();
-  const isDesktopOrLaptop = width >= 768;
+  const isDesktopOrLaptop = (width ?? 0) >= 768;
   return (
     <div className="relative p-4 md:py-20">
       <BackgroundRadialRight />

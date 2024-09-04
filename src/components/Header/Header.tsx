@@ -9,7 +9,7 @@ import useGetWindowSize from "../../utils/useGetWindowSize";
 
 export function Header() {
   const { width } = useGetWindowSize();
-  const isDesktopOrLaptop = width >= 768;
+  const isDesktopOrLaptop = (width ?? 0) >= 768;
   const [openMobileMenu, setOpenMobileMenu] = useState(false);
 
   return (
