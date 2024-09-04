@@ -13,7 +13,7 @@ export function BestBusiness() {
       </Reveal>
       <div className="flex flex-col gap-4">
         {dataFeaturesBusiness.map((data) => (
-          <div className="w-full md:h-[18rem] flex flex-col md:flex-row p-4 bg-[#005046] rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300 ease-in-out">
+          <div key={data.id} className="w-full md:h-[18rem] flex flex-col md:flex-row p-4 bg-[#005046] rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300 ease-in-out">
             <img
               className="w-[30rem] h-[15rem] object-cover rounded-t-lg"
               alt="Card Image"
