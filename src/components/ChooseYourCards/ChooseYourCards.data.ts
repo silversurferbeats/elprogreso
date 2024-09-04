@@ -1,14 +1,14 @@
 export const dataCards = [
   {
     id: 1,
-    image: "/assets/lunch-1.png",
+    image: "/assets/image1.png",
   },
   {
     id: 2,
-    image: "/assets/lunch-2.png",
+    image: "/assets/image2.png",
   },
   {
     id: 3,
-    image: "/assets/lunch-3.png",
+    image: "/assets/image3.png",
   },
 ];

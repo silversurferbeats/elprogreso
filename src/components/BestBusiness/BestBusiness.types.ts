@@ -1,6 +1,7 @@
 export type BestBusinessData = {
   id: number;
-  icon: string;
+  img: string;
   title: string;
   description: string;
+  price: string;
 }[];
