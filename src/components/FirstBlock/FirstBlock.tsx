@@ -41,7 +41,7 @@ export function FirstBlock() {
           }
         </div>
         <MotionTransition className="flex items-center justify-center mt-4 md:mt-0">
-          <img className="imageBar" src="/assets/TablaImg.jpg" />
+          <img className="imageBar" src="/assets/inicioImg.png" />
         </MotionTransition>
       </div>
     </div>

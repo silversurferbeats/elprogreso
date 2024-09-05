@@ -25,7 +25,7 @@ export function BestBusiness() {
               </h2>
               <p className="text-white px-4">{data.description}</p>
               <div className="flex justify-center items-center mt-4">
-                <button className="w-[20rem] bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-400 text-5xl font-light tracking-tight text-white">
+                <button className="w-[20rem] bg-[#cbe9a2] hover:bg-green-300 text-white px-4 py-2 rounded-full focus:outline-none focus:ring-2 focus:ring-green-400 text-5xl font-light tracking-tight text-white">
                   {data.price}
                 </button>
               </div>
