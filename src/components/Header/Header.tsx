@@ -46,11 +46,20 @@ export function Header() {
           </div>
         </div>
         {isDesktopOrLaptop && (
-          <div>
-            <button className="bg-[#005046] border-2 border-[#3e3e3e] rounded-lg text-white px-6 py-3 text-base hover:border-[#fff] cursor-pointer transition">
-              Ordena Online
-            </button>
-          </div>
+          <a
+            href="https://wa.me/+5491159445105"
+            target="_blank"
+            className="w-[15rem] h-[4rem] flex items-center bg-[#005046] border-2 border-[#3e3e3e] rounded-lg text-white px-6 py-3 text-base hover:border-[#fff] cursor-pointer transition gap-4"
+          >
+            <img
+              src="/assets/whatsappIcon.png"
+              width={50}
+              height={20}
+              alt="WhatsApp Icon"
+              className="rounded-xl"
+            />
+            Ordena Online
+          </a>
         )}
       </nav>
     </MotionTransition>

@@ -49,11 +49,11 @@ export const footerSocialNetworks = [
   {
     id: 1,
     icon: <RiWhatsappFill />,
-    link: "#"
+    link: "https://wa.me/+5491159445105"
   },
   {
     id: 2,
     icon: <RiInstagramLine />,
-    link: "#"
+    link: "https://www.instagram.com/el_progreso_picadas_?igsh=MTI4ZGZwMjR5OHZ3Zw=="
   },
 ];
