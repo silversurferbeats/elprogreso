@@ -6,12 +6,12 @@ export function BestBusiness() {
   return (
     <div className="relative p-4 md:py-20 max-w-5xl mx-auto" id="features">
       <Reveal>
-        <h2 className="text-5xl font-semibold mb-4">
+        <h2 className="text-5xl font-semibold mb-8">
           Picadas
           <span className="block degradedBlue bg-greenLight">Tablas</span>
         </h2>
       </Reveal>
-      <div className="flex flex-col gap-4">
+      <div className="flex flex-col gap-8">
         {dataFeaturesBusiness.map((data) => (
           <div key={data.id} className="w-full md:h-[18rem] flex flex-col md:flex-row p-4 bg-[#005046] rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300 ease-in-out">
             <img

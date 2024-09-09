@@ -57,4 +57,18 @@ export const dataFeaturesBusiness: BestBusinessData = [
       "Pan de Campo + Salame, Primavera, Jamón Cocido, Queso Roquefort, Longaniza, Cantimpalo,Mortadela Calcha, Queso Paulina, Bondiola, Pepinillos, Olivas Rellenas, Olivas Negras. Comen 2",
     price: "$ 17.700",
   },
+  {
+    id: 8,
+    img: "/assets/tablaQuebracho.png",
+    title: "Tabla de Quebracho",
+    description: "Toni grande 40 x 20 cm.",
+    price: "$ 15.000",
+  },
+  {
+    id: 9,
+    img: "/assets/tablaQuebracho.png",
+    title: "Tabla de Quebracho",
+    description: "Toni chica 30 x 16 cm.",
+    price: "$ 13.000",
+  },
 ];
