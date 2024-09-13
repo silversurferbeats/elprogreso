@@ -12,7 +12,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
   {
     id: 2,
     img: "/assets/doblePremium.png",
-    title: "Picada Doble premium",
+    title: "Picada XXL",
     description:
       "2 pan de campo + 2 bandejas, Queso Paulina, Salame,  Lomo Ahumado, Jamón Cocido, Queso Roquefort, Longaniza, Cantimpalo, Mortadela Calcha, Primavera, Bondiola, Pepinillos, Olivas Rellenas, Olivas Negras, Cebollin. Comen 10, Pican 12",
     price: "$ 48.000",
