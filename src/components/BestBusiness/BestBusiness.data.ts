@@ -55,7 +55,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     title: "Picada Chica",
     description:
       "Pan de Campo + Salame, Primavera, Jamón Cocido, Queso Roquefort, Longaniza, Cantimpalo,Mortadela Calcha, Queso Paulina, Bondiola, Pepinillos, Olivas Rellenas, Olivas Negras. Comen 2",
-    price: "$ 17.600",
+    price: "$ 17.700",
   },
   {
     id: 8,
