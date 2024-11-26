@@ -7,7 +7,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     title: "Picada XXXL",
     description:
       "Bandeja de 70cm. Pan de Campo + 12 pancitos, Salame, Lomo Ahumado, Jamón Cocido, Queso Roquefort, Longaniza, Cantimpalo, Mortadela calcha, Salame Criollo, Queso Paulina, Cantimpalo Tipo Español, Primavera, Bondiola, Pepinillos, Olivas Rellenas, Olivas Negras, Cebollin. Comen 15, Pican 18",
-    price: "$ 56.000",
+    price: "$ 61.600",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     title: "Picada XXL",
     description:
       "2 pan de campo + 2 bandejas, Queso Paulina, Salame,  Lomo Ahumado, Jamón Cocido, Queso Roquefort, Longaniza, Cantimpalo, Mortadela Calcha, Primavera, Bondiola, Pepinillos, Olivas Rellenas, Olivas Negras, Cebollin. Comen 10, Pican 12",
-    price: "$ 50.000",
+    price: "$ 57.000",
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     title: "Picada Premium",
     description:
       "Pan de Campo + Salame, Lomo Ahumado, Jamón Cocido, Queso Roquefort, Pategras, Longaniza, Cantimpalo, Mortadela Calcha, Queso Paulina, Primavera, Bondiola, Pepinillos, Olivas Rellenas, Olivas Negras, Cebollin. Comen 7, Pican 8 ",
-    price: "$ 32.000",
+    price: "$ 35,200",
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     title: "Picada Especial",
     description:
       "Pan de Campo +  Jamón Cocido, Bondiola, Cantimpalo, Queso Paulina, Salame, Lomo Ahumado, Queso Roquefort, Longaniza, Mortadela Calchaquí, Pategras Saborizados, Drip de Queso Cremoso, Olivas Rellenas, Olivas Negras. Comen 5, Pican 7",
-    price: "$ 28.000",
+    price: "$ 31,800",
   },
   {
     id: 5,
@@ -39,7 +39,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     title: "Picada Campo",
     description:
       "Pan de Campo + Bondiola, Queso Paulina, Salame Criollo, Lomo Ahumado, Jamón Cocido, Queso Roquefort, Longaniza, Cantimpalo Tipo Español, Pategras Saborizados, Pepinillos, Olivas Rellenas, Olivas Negras. Comen 4, Pican 5",
-    price: "$ 25.000",
+    price: "$ 27.500",
   },
   {
     id: 6,
@@ -47,7 +47,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     title: "Picada Gourmet",
     description:
       "Pan de Campo +  Jamón Cocido, Bondiola, Cantimpalo, Queso Paulina, Salame, Lomo Ahumado, Queso Roquefort, Longaniza, Olivas Rellenas, Olivas Negras. Comen 3, Pican 4",
-    price: "$ 22.000",
+    price: "$ 25.000",
   },
   {
     id: 7,
@@ -55,7 +55,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     title: "Picada Chica",
     description:
       "Pan de Campo + Salame, Primavera, Jamón Cocido, Queso Roquefort, Longaniza, Cantimpalo,Mortadela Calcha, Queso Paulina, Bondiola, Pepinillos, Olivas Rellenas, Olivas Negras. Comen 2",
-    price: "$ 17.700",
+    price: "$ 19.500",
   },
   {
     id: 8,
