@@ -62,8 +62,8 @@ export const dataFeaturesBusiness: BestBusinessData = [
     img: "/assets/image9.png",
     title: "Combo Para Regalar",
     description:
-      "Pan de Campo, Jamón Crudo, Pategras, Cantimpalo, Lomo Ahumado, Longaniza, Roqueford, Lever, Olivas, Cebollín, Boconccin de Muzza. (Precio picada sola: $19.000) + Mix de Tortas 8cm. Cheesecake con Frutos Rojos, Brownie Extra Chocolate con Dulce de Leche, Cacao Amargo y Frambuesas, Torta Mousse de Maracuya. Rinde 3/4 personas.",
-    price: "$ 35.000",
+      "Pan de Campo, Jamón Crudo, Pategras, Cantimpalo, Lomo Ahumado, Longaniza, Roqueford, Lever, Olivas, Cebollín, Boconccin de Muzza. (Precio picada sola: $20.900) + Mix de Tortas 8cm. Cheesecake con Frutos Rojos, Brownie Extra Chocolate con Dulce de Leche, Cacao Amargo y Frambuesas, Torta Mousse de Maracuya. Rinde 3/4 personas.",
+    price: "$ --",
   },
   {
     id: 9,
