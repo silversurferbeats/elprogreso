@@ -3,6 +3,22 @@ import { BestBusinessData } from "./BestBusiness.types";
 export const dataFeaturesBusiness: BestBusinessData = [
   {
     id: 1,
+    img: "/assets/20.png",
+    title: "Caja Enamorados",
+    description:
+      "Queso Campo Forma de Corazón, Salame, Roquefort, Lomo Ahumado, Jamón Crudo, Primavera, Cantimpalo Español, Salame Criollo, Olivas, Cherrys. Box para compartir para 2.",
+    price: "$ 23.000",
+  },
+  {
+    id: 2,
+    img: "/assets/19.png",
+    title: "Picada Veggie",
+    description:
+      "Queso Brie, Roquefort, Queso Cabra, Queso Paulina, Queso Saborizante, Olivas Rellenas, Olivas Negras, Nuez, 3 Bruschetas de Bonccocino y Cherrys.",
+    price: "$ --",
+  },
+  {
+    id: 3,
     img: "/assets/image10.jpeg",
     title: "Picada Navideña",
     description:
@@ -10,7 +26,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     price: "$ 43.000",
   },
   {
-    id: 2,
+    id: 4,
     img: "/assets/image8.png",
     title: "Picada XXXL",
     description:
@@ -18,7 +34,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     price: "$ 65.000",
   },
   {
-    id: 3,
+    id: 5,
     img: "/assets/doblePremium.png",
     title: "Picada XXL",
     description:
@@ -26,7 +42,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     price: "$ 70.000",
   },
   {
-    id: 4,
+    id: 6,
     img: "/assets/premium.png",
     title: "Picada Premium",
     description:
@@ -34,7 +50,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     price: "$ 38.000",
   },
   {
-    id: 5,
+    id: 7,
     img: "/assets/especial.png",
     title: "Picada Especial",
     description:
@@ -42,7 +58,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     price: "$ 34.000",
   },
   {
-    id: 6,
+    id: 8,
     img: "/assets/deCampo.png",
     title: "Picada Campo",
     description:
@@ -50,7 +66,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     price: "$ 31.000",
   },
   {
-    id: 7,
+    id: 9,
     img: "/assets/gourmet.png",
     title: "Picada Gourmet",
     description:
@@ -58,7 +74,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     price: "$ 27.000",
   },
   {
-    id: 8,
+    id: 10,
     img: "/assets/chica.png",
     title: "Picada Chica",
     description:
@@ -66,7 +82,7 @@ export const dataFeaturesBusiness: BestBusinessData = [
     price: "$ 23.000",
   },
   {
-    id: 9,
+    id: 11,
     img: "/assets/image9.png",
     title: "Combo Para Regalar",
     description:
@@ -74,14 +90,14 @@ export const dataFeaturesBusiness: BestBusinessData = [
     price: "$ --",
   },
   {
-    id: 10,
+    id: 12,
     img: "/assets/tablaQuebracho.png",
     title: "Tabla de Quebracho",
     description: "Toni grande 40 x 20 cm.",
     price: "$ 15.000",
   },
   {
-    id: 11,
+    id: 13,
     img: "/assets/tablaQuebracho.png",
     title: "Tabla de Quebracho",
     description: "Toni chica 30 x 16 cm.",
